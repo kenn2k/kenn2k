@@ -1,13 +1,13 @@
-Hi 👋 My name is Anton
+h
 ======================
 
 Fronted Developer
 -----------------
 
-* 🌍  I'm based in Ukraine
+* 🌍  I reside in Ukraine
 * ✉️  You can contact me at [antonshkreba.a@gmail.com](mailto:antonshkreba.a@gmail.com)
 
-### Skills
+### My Skill:
 
 
 <p align="left">
