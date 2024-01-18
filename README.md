@@ -1,6 +1,10 @@
 <h3 align="center">Sup 🙌, I`m Anton Shkreba</h3>
 
 My mail [antonshkreba.a@gmail.com](mailto:antonshkreba.a@gmail.com)
+
+
+
+<h3>Contact Me:</h3>
 <p align="left">
  <a href="https://t.me/kenn2ki" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" align="center" width="32" height="32" alt="telegram group" /></a>
@@ -9,5 +13,7 @@ My mail [antonshkreba.a@gmail.com](mailto:antonshkreba.a@gmail.com)
 <a href="https://discord.com/users/kenn2ki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kenn2ki" height="40" width="40" /></a>
 </p>
 </p>
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenn2k&show_icons=true&locale=en&layout=compact" alt="kenn2k" /></p>
