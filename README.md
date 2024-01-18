@@ -2,8 +2,7 @@
 
 My mail [antonshkreba.a@gmail.com](mailto:antonshkreba.a@gmail.com)
 
-</br>
-</br>
+
 
 <h3>Contact Me:</h3>
 <p align="left">
