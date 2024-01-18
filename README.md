@@ -1,4 +1,4 @@
-<h3 align="center">Sup 🙌, I`m Anton Shkreba</h3>
+<h1 align="center">Sup 🙌, I`m Anton Shkreba</h1>
 
 My mail [antonshkreba.a@gmail.com](mailto:antonshkreba.a@gmail.com)
 
