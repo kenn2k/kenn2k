@@ -16,6 +16,7 @@ My mail [antonshkreba.a@gmail.com](mailto:antonshkreba.a@gmail.com)
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenn2k&show_icons=true&locale=en&layout=compact&title_color=b6c56e&icon_color=b6c56e&text_color=b6c56e&bg_color=452b6e" alt="kenn2k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenn2k&show_icons=true&locale=en&layout=compact&title_color=d3f4e3&icon_color=d3f4e3&text_color=d3f4e3&bg_color=5052d0" alt="kenn2k" /></p>
+
 
 
