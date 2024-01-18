@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Sup 🙌, I`m Anton Shkreba</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My mail antonshkreba.a@gmail.com</h3>
 <p align="left">
  <a href="https://t.me/kenn2ki" target="_blank">
  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" align="center" width="32" height="32" alt="telegram group" /></a>
