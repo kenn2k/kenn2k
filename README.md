@@ -1,6 +1,6 @@
 <h1 align="center">Sup 🙌, I`m Anton Shkreba</h1>
 
-My mail [antonshkreba.a@gmail.com](mailto:antonshkreba.a@gmail.com)
+My mail [antonshkreba.a@gmail.com](mailto:antonshkreba.a@gmail.com)✍️
 
 
 
