@@ -8,8 +8,6 @@
 <a href="https://instagram.com/tony.sh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tony.sh_" height="30" width="40" /></a>
 <a href="https://discord.gg/kenn2ki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kenn2ki" height="40" width="40" /></a>
 </p>
- 
-
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenn2k&show_icons=true&locale=en&layout=compact" alt="kenn2k" /></p>
